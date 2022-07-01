@@ -1,3 +1,0 @@
-# Courtney's website
-
-hello

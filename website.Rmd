@@ -1,0 +1,56 @@
+---
+title: "Courtney J. Charlesworth"
+author: Biology, B.S.
+output:
+  rmdformats::material:
+    highlight: kate
+    self_contained: true
+    thumbnails: true
+    gallery: true
+    fig_width: 4
+    fig_height: 4
+    df_print: kable
+    fig_caption: false
+pkgdown:
+  as_is: true    
+---
+
+# About me
+
+Hi! Welcome to my website. My name Courtney and I am a recent college graduate (B.S. in Biological Sciences and Chemistry minor!). Biology is one of my biggest passions and has fascinated me for a long time. In particular, cellular biology is my favorite. A new found interest of mine that I would like to continue learning about is data science and coding. Eventually, I would like to attend graduate school and earn a PhD with a focus on cellular biology and data science.
+
+<center>
+
+![caption](files/picture_of_me.jpg)
+
+<center>
+
+# My resume
+
+### Education
+B.S. in Biological Sciences, Rowan University, May 30, 2022
+
+### Research
+Spielman Lab Research Assistant, Rowan University, Spring 2022
+<br>
+Advisor: [Stephanie J. Spielman, Ph.D.](https://sjspielman.github.io/index.html)
+
+### Work Positions
+Peer Tutor, Fall 2021 - Spring 2022
+<br>
+Tutoring Center, Rowan University
+
+<br>
+
+Student Worker, Spring 2019 - Spring 2022
+<br>
+Office of the Registrar, Rowan University 
+
+[Link to full resume](update  with pdf doc when resume is done)
+
+
+# Contact me
+
+courtneyjcharlesworth@gmail.com
+
+@cjcharlesworth on github
