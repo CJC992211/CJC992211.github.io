@@ -46,6 +46,8 @@ Student Worker, Spring 2019 - Spring 2022
 <br>
 Office of the Registrar, Rowan University 
 
+<br>
+
 [Link to full resume](update  with pdf doc when resume is done)
 
 
@@ -53,4 +55,4 @@ Office of the Registrar, Rowan University
 
 courtneyjcharlesworth@gmail.com
 
-@cjcharlesworth on github
+[cjcharlesworth](https://github.com/cjcharlesworth) on GitHub
